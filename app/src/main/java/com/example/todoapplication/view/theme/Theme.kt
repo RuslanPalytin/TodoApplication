@@ -1,4 +1,4 @@
-package com.example.todoapplication.ui.theme
+package com.example.todoapplication.view.theme
 
 import android.app.Activity
 import android.os.Build
